@@ -20,9 +20,13 @@ https://www.udemy.com/course/line-art-master/
 ![stegafreehand1](https://user-images.githubusercontent.com/3318539/187147177-1863f431-3ad7-49b8-8652-01fbc610c9fb.jpg)
 
 
-## Started Section 4
+## Finished Section 4: Project1 - Warbeetle!
 
 ![warbeetle](https://user-images.githubusercontent.com/3318539/187147189-18071ab4-e491-4aa7-90d1-3dd281f557ff.jpg)
 
 
 ![warbeetle2](https://user-images.githubusercontent.com/3318539/187349557-e27f7ab5-531a-464b-b4d5-63d6263fdcb5.jpg)
+
+
+
+## Started Section 5: Project2 - Octopus!
