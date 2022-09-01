@@ -1,5 +1,5 @@
 # ARTPhotoshopLineArtMaster
-Working through Line Art Master Course on udemy. In Progress!
+Working through Line Art Master Course on udemy. Finished the Course!
 
 ![image](https://user-images.githubusercontent.com/3318539/187145687-22f2450a-5831-4ffb-9126-17af4d0cd5ea.png)
 
@@ -9,7 +9,7 @@ https://www.udemy.com/course/line-art-master/
 
 
 
-# Progress So Far
+# Finished the course!
 
 ## Finished Section 1,2 and 3
 
@@ -29,4 +29,12 @@ https://www.udemy.com/course/line-art-master/
 
 
 
-## Started Section 5: Project2 - Octopus!
+## Finished Section 5: Project2 - Octopus!
+
+
+![octopus](https://user-images.githubusercontent.com/3318539/187846159-7da7d66a-29eb-4155-80d2-075adb3f11d3.jpg)
+
+![octopus2](https://user-images.githubusercontent.com/3318539/187846165-3978baad-9c07-4e85-b6fd-fbcd96765dec.jpg)
+
+
+![octopus3](https://user-images.githubusercontent.com/3318539/187846189-f01a3b55-249d-4b3f-82cf-51501b7ddb13.jpg)
